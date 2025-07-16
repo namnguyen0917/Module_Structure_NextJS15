@@ -1,5 +1,5 @@
-# Module Structure NextJS 15 +
-├─ src/
+# Project Structure Overview
+```├─ src/
 │  ├─ app/                         # App Router (route-level)
 │  │  ├─ layout.tsx               # Root layout – import globals.css, Redux Provider
 │  │  ├─ page.tsx                 # Trang Landing/Index
@@ -49,3 +49,4 @@
 ├─ .env.local
 ├─ tsconfig.json                  # alias path: @features/*, @shared/*
 └─ next.config.mjs
+```
