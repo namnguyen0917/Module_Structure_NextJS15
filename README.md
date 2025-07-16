@@ -1,5 +1,6 @@
 # Project Structure Overview
-```├─ src/
+```
+├─ src/
 │  ├─ app/                         # App Router (route-level)
 │  │  ├─ layout.tsx               # Root layout – import globals.css, Redux Provider
 │  │  ├─ page.tsx                 # Trang Landing/Index
