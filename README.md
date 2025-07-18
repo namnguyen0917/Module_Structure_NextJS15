@@ -1,5 +1,6 @@
 # Project Structure Overview
 ```
+Demo_Structure
 ├─ src/
 │  ├─ app/                         # App Router (route-level)
 │  │  ├─ layout.tsx               # Root layout – import globals.css, Redux Provider
